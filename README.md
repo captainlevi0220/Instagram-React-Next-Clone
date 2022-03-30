@@ -24,4 +24,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ```
 npm install @tailwindcss/form
+npm install @faker-js/faker --save-dev
 ```
