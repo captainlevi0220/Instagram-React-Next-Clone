@@ -60,7 +60,7 @@ function Header() {
           <HeartIcon className="navBtn" />
 
           <img
-            src="https://links.papareact.com/3ke"
+            src="https://i.pinimg.com/736x/59/b3/56/59b3569f24106c678148d1ecaec16f08.jpg"
             alt="profile pic"
             className="h-10 cursor-pointer rounded-full"
           />

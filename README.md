@@ -22,7 +22,13 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 # Instagram-React-Next-Clone
 
+https://v2.tailwindcss.com/docs/guides/nextjs
+
 ```
+npx create-next-app -e with-tailwindcss instagram-clone
+npm install @heroicons/react
 npm install @tailwindcss/form
 npm install @faker-js/faker --save-dev
+npm install --save-dev tailwind-scrollbar
+npm install tailwind-scrollbar-hide
 ```
