@@ -31,4 +31,7 @@ npm install @tailwindcss/form
 npm install @faker-js/faker --save-dev
 npm install --save-dev tailwind-scrollbar
 npm install tailwind-scrollbar-hide
+
+npm install next-auth@4.0.0-beta.4
+npm i firebase
 ```
